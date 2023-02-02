@@ -4,6 +4,8 @@
 #include <stdlib.h>
 #include <conio.h>
 
+
+// migara
 struct details {
     char name[100];
     char pw[100];
