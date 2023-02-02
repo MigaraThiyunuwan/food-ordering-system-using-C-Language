@@ -8,6 +8,8 @@ int total,cart_choice,i,confirm;
 char namecopy[100][100];
 char phnNumcopy[100][100];
 
+// test
+
 void cart()
 {
     system("cls");
