@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1644847694 source:c:\users\hp\desktop\food files\food ordering system\main.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	"CreateNewAccount.h"
+	"loging.h"
+	"search_defineHotels.h"
+	"search_food.h"
+	"hotels.h"
+	"food_order.h"
+	"cart.h"
+
+1642840921 c:\users\hp\desktop\food files\food ordering system\createnewaccount.h
+
+1644839124 source:c:\users\hp\desktop\food files\food ordering system\createnewaccount.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
+1642841539 c:\users\hp\desktop\food files\food ordering system\loging.h
+
+1643558998 source:c:\users\hp\desktop\food files\food ordering system\loging.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
+1642842131 c:\users\hp\desktop\food files\food ordering system\search_definehotels.h
+
+1643305479 source:c:\users\hp\desktop\food files\food ordering system\search_definehotels.c
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
+1642842411 c:\users\hp\desktop\food files\food ordering system\search_food.h
+
+1643305479 source:c:\users\hp\desktop\food files\food ordering system\search_food.c
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
+1642842866 c:\users\hp\desktop\food files\food ordering system\hotels.h
+
+1643305479 source:c:\users\hp\desktop\food files\food ordering system\hotels.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
+1643305479 source:c:\users\hp\desktop\food files\food ordering system\cart.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
+1642843560 c:\users\hp\desktop\food files\food ordering system\food_order.h
+
+1642843233 c:\users\hp\desktop\food files\food ordering system\cart.h
+
+1642843651 source:c:\users\hp\desktop\food files\food ordering system\food_order.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
+1644862739 source:d:\cst\semester 1\food ordering system files\food ordering system\createnewaccount.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
+1642843651 source:d:\cst\semester 1\food ordering system files\food ordering system\food_order.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
+1643305479 source:d:\cst\semester 1\food ordering system files\food ordering system\hotels.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
+1643558998 source:d:\cst\semester 1\food ordering system files\food ordering system\loging.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
+1643305479 source:d:\cst\semester 1\food ordering system files\food ordering system\search_food.c
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
+1644875858 source:d:\cst\semester 1\food ordering system files\food ordering system\cart.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
+1644875861 source:d:\cst\semester 1\food ordering system files\food ordering system\search_definehotels.c
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
